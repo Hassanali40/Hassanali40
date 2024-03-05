@@ -1,4 +1,4 @@
-![logo] {https://github.com/Hassanali40/Hassanali40/blob/main/Hassan%20Ali%20Cover%20Photo.jpg}
+![logo](https://github.com/Hassanali40/Hassanali40/blob/main/Hassan%20Ali%20Cover%20Photo.jpg)
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 

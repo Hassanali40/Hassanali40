@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [FanFood](https://www.order.fanfoodapp.com/)
+- 🔭 I’m currently working as a Full Stack Developer
 
 - 💬 Ask me about **JavaScript, TypeScript,React, Next, Node, Nest, GraphQl, MySql**
 

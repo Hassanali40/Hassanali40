@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a Full Stack Developer
 
-- 💬 Ask me about **JavaScript, TypeScript,React, Next, Node, Nest, GraphQl, MySql**
+- 💬 Ask me about **JavaScript, TypeScript,React, Next, Node, Nest, GraphQl, MySql, Mongo, microservices**
 
 - 📫 How to reach me **hassanali4096@gmail.com**
 
